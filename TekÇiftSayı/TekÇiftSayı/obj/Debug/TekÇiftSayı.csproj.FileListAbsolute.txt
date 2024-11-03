@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\bin\Debug\TekÇiftSayı.exe.config
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\bin\Debug\TekÇiftSayı.exe
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\bin\Debug\TekÇiftSayı.pdb
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\obj\Debug\TekÇiftSayı.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\obj\Debug\TekÇiftSayı.Form1.resources
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\obj\Debug\TekÇiftSayı.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\obj\Debug\TekÇiftSayı.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\obj\Debug\TekÇiftSayı.exe
+C:\Users\user\Desktop\10-M\TekÇiftSayı\TekÇiftSayı\obj\Debug\TekÇiftSayı.pdb
